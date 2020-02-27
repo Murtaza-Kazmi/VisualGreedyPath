@@ -1,2 +1,2 @@
 # VisualGreedyPath
-![](vg.PNG)
+![](vgpath.PNG)
